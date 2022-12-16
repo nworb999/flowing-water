@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>nworb</title>
+    <link rel="icon" type="image/x-icon" href="/public/shui.svg" />
+    <link rel="stylesheet" href="/styles/styles.css" />
+    <link
+      rel="stylesheet"
+      href="//code.jquery.com/ui/1.13.2/themes/base/jquery-ui.css"
+    />
+    <style src="/styles/styles.css"></style>
+    <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+    <script src="https://code.jquery.com/ui/1.13.2/jquery-ui.js"></script>
+    <script src="main.js"></script>
+  </head>
+  <body>
+    <div id="draggable" class="ui-widget-content">
+      <img
+        id="drag1"
+        src="/public/rock.png"
+        draggable="true"
+        ondragstart="drag(event)"
+        width="336"
+        height="auto"
+      />
+    </div>
+  </body>
+</html>

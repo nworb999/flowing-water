@@ -1,21 +1,24 @@
-import { runSound } from "./src/audio.js";
+import { startAudio, stopAudio, setFrequency } from "./src/audio.js";
+
 // get window px dimensions
 // get xy position of rock in number relative to placement of window
 // create map of frequency to position
-let xAxis;
-let yAxis;
+
+let xAxis = 0;
+let yAxis = 0;
 
 $(function () {
   $(".draggable").draggable({
     start: function () {
-      runSound();
-    },
-    drag: function () {
       xAxis = document.getElementById("rock").style.left;
       yAxis = document.getElementById("rock").style.top;
-      console.log({ xAxis });
-      console.log({ yAxis });
+      startAudio(parseInt(xAxis.replace("px", "")));
     },
-    stop: function () {},
+    drag: function () {
+      setFrequency(parseInt(xAxis.replace("px", "")));
+    },
+    stop: function () {
+      stopAudio();
+    },
   });
 });

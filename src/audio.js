@@ -15,6 +15,7 @@ let amplifier;
 
 const mapNote = (xAxis) => {
   // returns string number based on xAxis
+  // divides window width into 7 quandrant
   const stringNumber =
     xAxis > 1200 ? 6 : Math.round(Math.min(xAxis / 170 || 0, 6), 1);
   return noteTable[stringNumber];

@@ -1,11 +1,12 @@
-<img align="right" height="500" src="https://user-images.githubusercontent.com/20407156/209596797-1c8f194a-225d-46f7-8711-804a831f18b8.jpg">
-
 # flowing water (2022 - present)
+
+<img align="right" height="500" src="https://user-images.githubusercontent.com/20407156/209596797-1c8f194a-225d-46f7-8711-804a831f18b8.jpg">
 
 A musical interface inspired by the famous guqin tune **流水**, or "Flowing Water". In modern renditions of the song, there is a
 section comprised entirely of **滾拂**, or
 [glissando](https://www.youtube.com/watch?v=B8F0G4QEQYg&t=224s), reminiscent of water flowing through a rocky stream.
 
+The guqin is a seven-stringed zither with thirteen 徽, or stops, which are positioned according to harmonics.  Because the guqin is fretless, it can cerate essentially an infinite amount of different notes along each string.
 
 The synth is essentially an arpeggiator that emulates the texture of
 **滾拂**. The chord is controlled by the X, Y position
@@ -17,6 +18,8 @@ of a rock in a stream, which will modify the pitch of a single note in the chord
 - [Guan Pinghu rendition of 流水 (featured on The Voyager Golden Record)](https://www.youtube.com/watch?v=YHVt-xAaq-4)
 - [**滾拂** technique demonstration](https://www.youtube.com/watch?v=84rCZPIMjxM&ab_channel=PeiyouChang)
 
+
+<figure><img src="https://blog.nyl.io/content/images/2020/12/hui8.png"><figcaption><a href="https://blog.nyl.io/guqin-part-1-harmonics-and-hui/">diagram source</a></figcaption></figure>
 
 ## v.0.0
 

@@ -25,7 +25,7 @@ of a rock in a stream, which will modify the pitch of a single note in the chord
 
 The current version, where the rock controls the pitch based on its position on the screen's X-axis. The screen is quantized into seven sections applying the frequency of the corresponding open string note of the guqin.
 
-Fixes have to be made to allow for continuous dragging without the audio engine crashing. I'm also considering using recordings of my own guqin instead of the Web Audio Oscillator.
+Fixes have to be made to allow for continuous dragging without the audio engine crashing, and it isn't currently working on mobile.  I'm also considering using recordings of my own guqin instead of the Web Audio Oscillator.
 
 ## v.0.99
 

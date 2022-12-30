@@ -30,9 +30,12 @@ Fixes have to be made to allow for continuous dragging without the audio engine 
 
 ## v.0.99
 
-Will involve Y-axis interaction, with a
-continuous range of frequencies along each string. If I choose to use a guqin sample as the sound source, I will have to figure out how to pitch it continiuously with the slide instead of jumping to certain stops along the string that I recorded.
+Will involve Y-axis interaction, with a continuous range of frequencies along each string. If I choose to use a guqin sample as the sound source, I will have to figure out how to pitch it continiuously with the slide instead of jumping to certain stops along the string that I recorded.
 
 ## v1.0
 
 Will introduce the arpeggiator and a basic background.
+
+## v2.0 
+
+Will introduce live sliding notes.

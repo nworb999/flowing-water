@@ -7,7 +7,7 @@ A musical interface inspired by the famous guqin tune **流水**, or "Flowing Wa
 section comprised entirely of **滾拂**, or
 [glissando](https://www.youtube.com/watch?v=B8F0G4QEQYg&t=224s), reminiscent of water flowing through a rocky stream.
 
-The guqin is a seven-stringed zither with thirteen **徽**, or stops, which are positioned according to harmonics.  Because the guqin is fretless, it can create essentially an infinite amount of different notes along each string.
+The guqin is a seven-stringed zither with thirteen **徽**, or stops, which are positioned according to harmonics.  Because the guqin is fretless, it can create an infinite amount of different notes along each string.
 
 The synth is essentially an arpeggiator that emulates the texture of
 **滾拂**. The chord is controlled by the X, Y position

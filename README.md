@@ -1,6 +1,6 @@
 # flowing water (2022 - present)
 
-<img align="right" height="500" src="https://user-images.githubusercontent.com/20407156/211947023-1362be0b-d47d-4169-924b-ee251bb6a8d1.png">
+<img align="right" height="500" src="https://user-images.githubusercontent.com/20407156/211947205-6702cb04-db64-463b-881e-b5a0740f645c.png">
 
 
 A musical interface inspired by the famous guqin tune **流水**, or "Flowing Water". In modern renditions of the song, there is a

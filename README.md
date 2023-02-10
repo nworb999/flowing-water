@@ -2,7 +2,7 @@
 
 <img align="right" height="500" src="https://user-images.githubusercontent.com/20407156/211947205-6702cb04-db64-463b-881e-b5a0740f645c.png">
 
-
+<div style="text-align: justify">
 A musical interface inspired by the famous guqin tune **流水**, or "Flowing Water". In modern renditions of the song, there is a
 section comprised entirely of **滾拂**, or
 [glissando](https://www.youtube.com/watch?v=B8F0G4QEQYg&t=224s), reminiscent of water flowing through a rocky stream.
@@ -39,3 +39,4 @@ Will introduce the arpeggiator and a basic background.
 ## v2.0 
 
 Will introduce live sliding notes.
+</div>

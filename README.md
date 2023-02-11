@@ -3,21 +3,21 @@
 <img align="right" height="500" src="https://user-images.githubusercontent.com/20407156/211947205-6702cb04-db64-463b-881e-b5a0740f645c.png">
 
 <div style="text-align: justify">
-A musical interface inspired by the famous guqin tune **流水**, or "Flowing Water". In modern renditions of the song, there is a
-section comprised entirely of **滾拂**, or
+A musical interface inspired by the famous guqin tune 流水, or "Flowing Water". In modern renditions of the song, there is a
+section comprised entirely of 滾拂, or
 [glissando](https://www.youtube.com/watch?v=B8F0G4QEQYg&t=224s), reminiscent of water flowing through a rocky stream.
 
-The guqin is a seven-stringed zither with thirteen **徽**, or stops, which are positioned according to harmonics.  Because the guqin is fretless, it can create an infinite amount of different notes along each string.
+The guqin is a seven-stringed zither with thirteen 徽, or stops, which are positioned according to harmonics.  Because the guqin is fretless, it can create an infinite amount of different notes along each string.
 
 The synth is essentially an arpeggiator that emulates the texture of
-**滾拂**. The chord is controlled by the X, Y position
+滾拂. The chord is controlled by the X, Y position
 of a rock in a stream, which will modify the pitch of a single or multiple notes in the chord. Modeled on the standard tuning of the guqin, the app quantizes the browser window into seven different quadrants associated with the open string note of each guqin string on the X-axis, along with a continuous range of frequencies along the Y-axis of each quadrant to represent the sliding of the finger along the string. Using the Web Audio API, the arpeggiator will play and update with every drag of the rock across the screen.
 
 
 ### relevant links
 
 - [Guan Pinghu rendition of 流水 (featured on The Voyager Golden Record)](https://www.youtube.com/watch?v=YHVt-xAaq-4)
-- [**滾拂** technique demonstration](https://www.youtube.com/watch?v=84rCZPIMjxM&ab_channel=PeiyouChang)
+- [滾拂 technique demonstration](https://www.youtube.com/watch?v=84rCZPIMjxM&ab_channel=PeiyouChang)
 
 
 <figure><img src="https://blog.nyl.io/content/images/2020/12/hui8.png"><figcaption><a href="https://blog.nyl.io/guqin-part-1-harmonics-and-hui/">diagram source</a></figcaption></figure>
